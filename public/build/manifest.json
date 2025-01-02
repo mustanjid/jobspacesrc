@@ -1,0 +1,44 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-EqSiq2KI.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/images/l-1.svg": {
+    "file": "assets/l-1-MeNhoF-q.svg",
+    "src": "resources/images/l-1.svg"
+  },
+  "resources/images/l-2.svg": {
+    "file": "assets/l-2-D5JD2ssK.svg",
+    "src": "resources/images/l-2.svg"
+  },
+  "resources/images/logo-color.svg": {
+    "file": "assets/logo-color-CZtkUBke.svg",
+    "src": "resources/images/logo-color.svg"
+  },
+  "resources/images/logo-grayscale-inverted.svg": {
+    "file": "assets/logo-grayscale-inverted-Dm0J9qjW.svg",
+    "src": "resources/images/logo-grayscale-inverted.svg"
+  },
+  "resources/images/logo-grayscale.svg": {
+    "file": "assets/logo-grayscale-C98wDqEk.svg",
+    "src": "resources/images/logo-grayscale.svg"
+  },
+  "resources/images/logo-no-background.svg": {
+    "file": "assets/logo-no-background-CLV8tZPk.svg",
+    "src": "resources/images/logo-no-background.svg"
+  },
+  "resources/images/logo.svg": {
+    "file": "assets/logo-DuBTfVMW.svg",
+    "src": "resources/images/logo.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-D6AVesf_.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-EqSiq2KI.css"
+    ]
+  }
+}
